@@ -1,22 +1,16 @@
-# Hi, I’m Tushar (@tshrv) 👋
+# Hi, I’m Tushar 👋
 
 Building **full-stack systems**, specializing in **backend and data engineering**.  
 I work on **data-intensive products and pipelines**, closely with core product teams, across multiple domains.
 
----
-
 ## Tech I Work With
 **Python · React · AWS · Distributed Systems · Data Platforms**
-
----
 
 ## Areas of Interest
 - Backend & platform engineering  
 - Data engineering and analytics pipelines  
 - Event-driven and cloud-native systems  
 - Open-source tools and ecosystems  
-
----
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/tshrv/
